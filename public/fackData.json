@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "name":"jakolin",
+        "image":"https://i.postimg.cc/SNmSnt1f/profile-2.jpg",
+        "product":"https://i.postimg.cc/pL8KScyq/8.webp",
+        "price":250,
+        "ratting":4.5,
+        "comment":"Great customer service and after wearing, I think you all should wear this  and you will be happy using this great shirt."
+    },
+    {
+        "id":2,
+        "name":"kurus",
+        "image":"https://i.postimg.cc/7ZCph34N/profile-4.jpg",
+        "product":"https://i.postimg.cc/0ydbmTzR/10-1.webp",
+        "price":499,
+        "ratting":5,
+        "comment":"You were responsive to my urgent shipping needs. Thank you."
+    },
+    {
+        "id":3,
+        "name":"ponting",
+        "image":"https://i.postimg.cc/26TH2ym6/profile.jpg",
+        "product":"https://i.postimg.cc/66yY9X3Q/11-1.webp",
+        "price":699,
+        "ratting":5,
+        "comment":"Quick delivery and item is working!"
+    },
+    {
+        "id":4,
+        "name":"smith",
+        "image":"https://i.postimg.cc/1XB8jg38/profile3.jpg",
+        "product":"https://i.postimg.cc/T39rV7wS/12.webp",
+        "price":350,
+        "ratting":4.3,
+        "comment":" We have already added it to our store. Highly recommended."
+    }
+]
